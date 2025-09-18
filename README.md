@@ -1,7 +1,7 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=PSJ%20Github&reversal=true&section=header&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=PSJ%20Github&reversal=true&section=header&fontAlignY=50)
 
 <br>
 
