@@ -1,13 +1,14 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=PSJ%20Github&reversal=true&section=header&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=PSJ%20Github&reversal=true&section=header&fontAlignY=50)
 
 <br>
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
   <a href="https://github.com/ParkSeJin0514" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://psjrepository.notion.site/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+<br>
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
