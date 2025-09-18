@@ -6,7 +6,8 @@
 <br>
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
-  <a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/ParkSeJin0514" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://psjrepository.notion.site/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
@@ -56,6 +57,6 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/ParkSeJin0514/ParkSeJin0514)
  
 </div>
