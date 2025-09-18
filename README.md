@@ -7,7 +7,7 @@
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
   <a href="https://github.com/ParkSeJin0514" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://psjrepository.notion.site/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://psjrepository.notion.site/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
