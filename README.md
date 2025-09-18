@@ -42,14 +42,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 <br>
 <br>
-
  <h3><b>📚 EDUCATION 📚</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
 </div>
 <br>
 <br>
-
 <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
   <img src="https://github-readme-stats.vercel.app/api?username=ParkSeJin0514&show_icons=true&count_private=true&hide_border=true" align="center" />
