@@ -45,16 +45,3 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
 </div>
-<br>
-<br>
-<div align="center">
- <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkSeJin0514&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
-<br>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeJin0514&langs_count=5&layout=compact)](https://github.com/ParkSeJin0514)
- 
-</div>
